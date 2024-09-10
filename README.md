@@ -11,7 +11,7 @@ Methodology:
 - Manipulated clean dataset to match the needs of each visualization
 - Showcase visualizations of all kinds: tables, color maps, bar and line charts, a density estimate graph, boxplots.
 - Analyzed insights from visualizations in description boxes. Drew on education and background in sustainability and economics.
-- Used HTML to clean up the visual representation of the project in PDF form.
+- Used HTML to clean up the visual presentation of the project in PDF form.
 
 
 Insights
