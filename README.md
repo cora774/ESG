@@ -1,7 +1,9 @@
 Project Overview: 
 
 
-Dataset: S&P 500 from Pritish 
+Dataset: S&P 500 from Pritish Dugar. 
+(2023) S&P 500 ESG Risk Ratings [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/3660201
+Alternative url: https://www.kaggle.com/datasets/pritish509/s-and-p-500-esg-risk-ratings
 
 Methodology:
 - Dataset exploration: ESG related dataset was the goal. Found dataset with categorical risk data.
